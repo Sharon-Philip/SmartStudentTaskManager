@@ -1,4 +1,4 @@
-# SmartStudentTaskManager
+# Smart_Student_Task_Manager
 A Java project for VIT flipped course requirements
 Problem Statement:
 Students often struggle to manage tasks, deadlines, and study schedules. This tool provides a lightweight desktop CLI application to create, prioritize and track study tasks and deadlines, helping students focus and plan.
